@@ -37,3 +37,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Miscellaneous ###
+
+src/main/java/draft/
+src/test/java/draft/
